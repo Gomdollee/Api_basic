@@ -1,0 +1,21 @@
+{
+  "name" : "곰돌이",
+  "age" : 150,
+  "kind" : [
+    {
+      "name" : "북극곰",
+      "bear_number" : 1,
+      "TYPE" : ""
+    },
+    {
+      "name" : "불곰",
+      "bear_number" : 2,
+      "TYPE" : ""
+    },
+    {
+      "name" : "흑곰",
+      "bear_number" : 3,
+      "TYPE" : ""
+    }
+  ]
+}
