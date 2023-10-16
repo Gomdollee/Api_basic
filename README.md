@@ -1,22 +1,24 @@
-# Api_basic
+# 혼자공부 (spring boot)
 
-@RestContoller - Rest API 설정 
+aop 
 
-@RequestMapping - 리소스를 설정(method로 구분가능)
+delete
 
-@PostMapping - Post Resource 설정 
+exception
 
-@RequestBody - Request Body 부분 Parsing 
+filter 
 
-@PathVariable - URL Path Variable Parsing 
+get
 
-@JsonProperty - json naming 
+interceptor 
 
-@JsonNaming - class json naming 
+object-mapper 
 
-@PutMapping - Put Resource 설정 
+post 
 
-@DeleteMapping - Delete Resource 설정 
+put 
 
-Object - Query Param Object로 Parsing 
+response 
+
+validation 
 
